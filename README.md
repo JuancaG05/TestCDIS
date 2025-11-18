@@ -6,3 +6,6 @@ Este repositorio servirá como ejemplo para el taller de Git en la asignatura CD
 
 Juan Carlos Garrote
 
+
+
+Cambio en remoto
